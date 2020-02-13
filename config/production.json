@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://aswilson:wilsonasw@dev-connector-sapel.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "6407bd4ba6cde9b12a8c",
+    "githubSecret": "01db9736c9340840f690a9fd86becfc2c52c22eb"
+  }
+  
